@@ -95,6 +95,7 @@ Software Requirements
   * [Git](https://git-scm.com/)
   * [node.js](https://nodejs.org/en/)
   * [Webpack](https://webpack.js.org/)
+  * [UnityHub](https://unity3d.com/get-unity/download?_aid=1011l9Vin)
 
 </details>
 
