@@ -8,3 +8,5 @@
 (11:05am) Successfully rendered environment through VR headset, 3dof(degrees of freedom x,y,z) not responsive
 (11:30am) 3dof enabled, need to rig camera to body
 (12:00pm) No luck rigging yet, break for lunch
+(1:00pm) Trying to create hand tracking
+(1:30pm) Rough hand model
