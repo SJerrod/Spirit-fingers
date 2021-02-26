@@ -96,6 +96,7 @@ Software Requirements
   * [node.js](https://nodejs.org/en/)
   * [Webpack](https://webpack.js.org/)
   * [UnityHub](https://unity3d.com/get-unity/download?_aid=1011l9Vin)
+  * [SteamVR](https://valvesoftware.github.io/steamvr_unity_plugin/index.html)
 
 </details>
 
