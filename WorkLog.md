@@ -5,3 +5,4 @@
 (9:30am) Installing Unity 
 (10:00am) Installing Unity plugins 
 (10:30am) Attempt to integrate VR into unity 
+(11:05am) Successfully rendered environment through VR headset, 3dof(degrees of freedom x,y,z) not responsive
