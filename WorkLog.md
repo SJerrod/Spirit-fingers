@@ -10,3 +10,4 @@
 (12:00pm) No luck rigging yet, break for lunch
 (1:00pm) Trying to create hand tracking
 (1:30pm) Rough hand model
+(2:00pm) trying to get hand to track properly, *Restart comp*
