@@ -36,8 +36,8 @@
 * Equip items effect overall stats
 
 ### Specs
-
-<details>
+<!-- CHANGE BELOW 
+ <details>
   <summary>User stories and specifications</summary>
   <table>
     <tr>
@@ -68,7 +68,7 @@
       <td>False</td>
     </tr>
   </table>
-</details>
+</details> -->
 
 # 💾 Installation Requirements
 
