@@ -75,6 +75,20 @@
 Software Requirements
 * An internet browser of your choice; I prefer Chrome
 * A code editor; I prefer VSCode
+* Unity Game Engine
+
+Hardware Requirements
+* HTC Vive
+* Valve Index
+
+# 🖥️ Opening the Project on your Local System
+
+Open by Downloading or Cloning
+- [Click to view Github repository](https://github.com/SJerrod/Spirit-fingers.git) Or simply paste the following url into your prefered browser https://github.com/SJerrod/Spirit-fingers.git
+- To Clone repository simply click the green Code button and copy the url.
+- Using a prefered terminal use the command `git clone paste-url-here` in which ever directory you wish.
+- Open the newly cloned repo with your text editor.
+- In the terminal run command `cd capstone-project` if you are not already at the root directory
 
 # 🖥️ Opening the Project on your Local System
 
