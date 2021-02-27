@@ -14,3 +14,4 @@
 (2:30pm) still working to center hands on body
 (3:00pm) Working on adding input to controllers
 (3:30pm) Still working on controller input
+(4:00pm) Adding SteamVR plugin
