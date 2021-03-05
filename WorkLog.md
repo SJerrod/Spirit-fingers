@@ -20,3 +20,6 @@
 
 3.5.2021
 (8:00am)  Add Project Proposal
+(8:30am)  Progress was not saved properly Rebuild required
+(9:00am)  Rebuilding project
+(9:30am)  Rebuilding 

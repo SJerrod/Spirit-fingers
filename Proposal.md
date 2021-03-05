@@ -17,7 +17,9 @@ Spirit Fingers is a first attempt at generating a Virtual environment for the us
 * Player can pickup/hit/throw or otherwise interact with items
 
 ### Tools for MVP
-
+* Unityhub
+* Unity
+* SteamVR Plugin
 
 ### Stretch Goals
 * Add Item stats
@@ -26,3 +28,7 @@ Spirit Fingers is a first attempt at generating a Virtual environment for the us
 * Add Inventory system
 * Items can be equip or stored
 * Equip items effect overall stats
+
+### Aditional Info
+
+Im excited to try something so different then what we have been doing and more in line with what I would like to do. Im worried it may be beyond my skill set but will try my best to deliver something.
