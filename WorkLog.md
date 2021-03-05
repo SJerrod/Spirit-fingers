@@ -29,3 +29,4 @@
 * (10:45am) Player can move and movements are based off of camera direction
 * (11:00am) Add player collider to account for player moving into or onto objects 
 * (11:30am) Player can interact with objects although cannot physically grab yet, only move push
+* (12:00pm) Still working to make objects grabable  
