@@ -35,3 +35,4 @@
 * (2:00pm)  Still trying to Grab
 * (2:30pm)  Still trying to Grab
 * (3:00pm)  Still trying to Grab
+* (3:30pm)  Importing assets to VSC from Unity
