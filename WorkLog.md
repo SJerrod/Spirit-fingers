@@ -30,3 +30,6 @@
 * (11:00am) Add player collider to account for player moving into or onto objects 
 * (11:30am) Player can interact with objects although cannot physically grab yet, only move push
 * (12:00pm) Still working to make objects grabable  
+* (1:00pm)  Grabbing objects is turning out to me far harder then anticipated
+* (1:30pm)  Still trying to Grab
+
