@@ -25,4 +25,5 @@
 * (9:30am)  Rebuilding 
 * (10:00am) Attempt to add movement
 * [Hand Tracking](https://valvesoftware.github.io/steamvr_unity_plugin/articles/Skeleton-Input.html)
-* (10:30am) Fixing movement for players view direction
+* (10:30am) Fixing movement to players view direction
+* (10:45am) Player can move and movements are based off of camera direction
