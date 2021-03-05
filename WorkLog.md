@@ -32,4 +32,6 @@
 * (12:00pm) Still working to make objects grabable  
 * (1:00pm)  Grabbing objects is turning out to me far harder then anticipated
 * (1:30pm)  Still trying to Grab
-
+* (2:00pm)  Still trying to Grab
+* (2:30pm)  Still trying to Grab
+* (3:00pm)  Still trying to Grab
