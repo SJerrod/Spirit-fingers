@@ -17,3 +17,6 @@
 (4:00pm)  Adding SteamVR plugin
 (4:30pm)  SteamVr has very handy prefabs that have made hand tracking quite simple
 (5:00pm)  Punch the clock...and not just virtually.
+
+3.5.2021
+(8:00am)  Add Project Proposal
