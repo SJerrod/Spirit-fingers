@@ -27,3 +27,5 @@
 * [Hand Tracking](https://valvesoftware.github.io/steamvr_unity_plugin/articles/Skeleton-Input.html)
 * (10:30am) Fixing movement to players view direction
 * (10:45am) Player can move and movements are based off of camera direction
+* (11:00am) Add player collider to account for player moving into or onto objects 
+* (11:30am) Player can interact with objects although cannot physically grab yet, only move push
