@@ -47,3 +47,4 @@
 * (9:30am)  Hands not showing up, attempt to restart and fix
 * (10:00am) Hands back up but have no texture/ material
 * (10:30am) Messing with shaders to get hands to show and not say unloaded assets
+* (11:00am) Working to add Destructable props
