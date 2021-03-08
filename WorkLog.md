@@ -39,3 +39,11 @@
 * (4:00pm)  Eureka I can grab objects now...but velocity defaults to zero on throw
 * (4:30pm)  Fixing grab errors and buggy dancing objects
 * (5:00pm)  Punch the clock...and not just virtually.
+
+## 3.8.2021
+* (8:00am)  Stand-up
+* (8:30am)  Stand-up
+* (9:00am)  Stand-up
+* (9:30am)  Hands not showing up, attempt to restart and fix
+* (10:00am) Hands back up but have no texture/ material
+* (10:30am) Messing with shaders to get hands to show and not say unloaded assets
