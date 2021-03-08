@@ -50,3 +50,7 @@
 * (11:00am) Working to add Destructable props, Downloading blender
 * (11:30am) Downloaded magicaVoxel for voxel rendered models
 * (12:00pm) Lunch/ building a voxel Model
+* (1:00pm)  Voxel Model rendered in Unity
+* (1:30pm)  No Luck getting collision detection from hands on model
+* (2:00pm)  Switched to blender following basic model tutorial to create object
+* (2:30pm)  Using Cell Fracture add-on to auto fracture a model
