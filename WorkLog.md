@@ -66,3 +66,5 @@
 * (8:00am)  Looking more into blender model building
 * (8:30am)  Crafting tower Asset
 * (9:00am)  Adding tower to unity with fractured and un fractured versions
+* (9:30am)  Fracturing is tolling my computer
+* (10:00am) Restart
