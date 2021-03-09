@@ -53,7 +53,11 @@
 * (1:00pm)  Voxel Model rendered in Unity
 * (1:30pm)  No Luck getting collision detection from hands on model
 * (2:00pm)  Switched to blender following basic model tutorial to create object
+* [Blender import](https://gamedevacademy.org/how-to-import-blender-models-into-unity-your-one-stop-guide/)
 * (2:30pm)  Using Cell Fracture add-on to auto fracture a model
 * [Cell Fracture](https://docs.blender.org/manual/en/latest/addons/object/cell_fracture.html)
 * (3:00pm)  Continue looking into Object Collision
 * (3:30pm)  Collision detection success and it replaced the object with a broken object
+* (4:00pm)  Career services
+* (4:30pm)  Add force mechanic to break script to throw objects
+* (5:00pm)  Pizza Time!!!
