@@ -4,6 +4,7 @@
 * (9:00am)  Researching tools and tech.
 * (9:30am)  Installing Unity 
 * (10:00am) Installing Unity plugins 
+* [Unity script](https://docs.unity3d.com/ScriptReference/)
 * (10:30am) Attempt to integrate VR into unity 
 * (11:05am) Successfully rendered environment through VR headset, 3dof(degrees of freedom x,y,z) not responsive
 * (11:30am) 3dof enabled, need to rig camera to body
@@ -71,4 +72,7 @@
 * (10:30am) Objects are fracturing and  rotating 90 degrees attempting to stop that behavior
 * (11:00am) Still trying to solve orientation problem
 * (11:30am) Orientation stems down z and y axis being reversed in both programs
-
+* (12:00pm) Object breaks as desired
+* (1:00pm)  Add to Movement and more blender assets
+* (1:30pm)  Trying to make hand collision detection trigger fracturing
+* (2:00pm)  Add Collider to hands to enable punch damage

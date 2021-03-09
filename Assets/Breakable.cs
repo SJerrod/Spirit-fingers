@@ -10,7 +10,7 @@ public class Breakable : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if(other.gameObject.tag == "THROWABLE")
+        if(other.gameObject.tag == "THROWABLE" || other.gameObject.tag == "GROUND" || other.gameObject.tag == "HAND")
         {
             hp--;
         }
