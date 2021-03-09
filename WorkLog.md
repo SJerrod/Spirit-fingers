@@ -68,3 +68,4 @@
 * (9:00am)  Adding tower to unity with fractured and un fractured versions
 * (9:30am)  Fracturing is tolling my computer
 * (10:00am) Restart
+* (10:30am) Objects are fracturing and  rotating 90 degrees attempting to stop that behavior
