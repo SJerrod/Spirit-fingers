@@ -69,3 +69,6 @@
 * (9:30am)  Fracturing is tolling my computer
 * (10:00am) Restart
 * (10:30am) Objects are fracturing and  rotating 90 degrees attempting to stop that behavior
+* (11:00am) Still trying to solve orientation problem
+* (11:30am) Orientation stems down z and y axis being reversed in both programs
+
