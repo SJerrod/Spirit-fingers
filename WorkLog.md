@@ -61,3 +61,8 @@
 * (4:00pm)  Career services
 * (4:30pm)  Add force mechanic to break script to throw objects
 * (5:00pm)  Pizza Time!!!
+
+## 3.9.2021
+* (8:00am)  Looking more into blender model building
+* (8:30am)  Crafting tower Asset
+* (9:00am)  Adding tower to unity with fractured and un fractured versions
