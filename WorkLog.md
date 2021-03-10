@@ -76,3 +76,8 @@
 * (1:00pm)  Add to Movement and more blender assets
 * (1:30pm)  Trying to make hand collision detection trigger fracturing
 * (2:00pm)  Add Collider to hands to enable punch damage
+* (2:30pm)  Side effect of collider now initial interaction causes damage
+* (3:00pm)  No luck resolving initial hit on contact
+* (3:30pm)  Modeled another building to add to scene
+* (4:00pm)  Discovered how to turn fractured object pieces into new throwables/ but on initial destruction they cause a chain reaction
+
