@@ -19,7 +19,7 @@
 |[Jerrod Styrk](https://www.linkedin.com/in/styrk-jerrodm/)|[SJerrod](https://github.com/SJerrod)|
 
 # 📖 Description
-* The Player will be generated into a 3D environment. Hand tracking will allow the player to interact with items. Items will have physics.
+* The Player will be generated into a 3D environment. Hand tracking will allow the player to interact with items. Items will have physics. Player can smash around the environment
 
 ### Minimum-Viable Product
 * Generate environment around player
@@ -28,6 +28,7 @@
 * Player can pickup/hit/throw or otherwise interact with items
 
 ### Stretch Goals
+* Add Destruction
 * Add Item stats
 * Player can break items
 * Add player stats
@@ -110,7 +111,14 @@ Open by Downloading or Cloning
   * [node.js](https://nodejs.org/en/)
   * [Webpack](https://webpack.js.org/)
   * [UnityHub](https://unity3d.com/get-unity/download?_aid=1011l9Vin)
+  * [Unity script](https://docs.unity3d.com/ScriptReference/)
   * [SteamVR](https://valvesoftware.github.io/steamvr_unity_plugin/index.html)
+  * [Cell Fracture](https://docs.blender.org/manual/en/latest/addons/object/cell_fracture.html)
+  * [Blender import](https://gamedevacademy.org/how-to-import-blender-models-into-unity-your-one-stop-guide/)
+  * [Hand Tracking](https://valvesoftware.github.io/steamvr_unity_plugin/articles/Skeleton-Input.html)
+
+
+
 
 </details>
 

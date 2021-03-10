@@ -80,4 +80,5 @@
 * (3:00pm)  No luck resolving initial hit on contact
 * (3:30pm)  Modeled another building to add to scene
 * (4:00pm)  Discovered how to turn fractured object pieces into new throwables/ but on initial destruction they cause a chain reaction
-
+* (4:30pm)  Moved files from unity folder to project folder
+* (5:00pm)  Why have I barely eaten or drank today

@@ -1,0 +1,11 @@
+Unity
+unityProject
+UnityEditor
+UnityEngine
+Assembly
+SteamVR
+.env
+bin/
+obj/
+.vscode
+.DS_Store
