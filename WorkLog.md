@@ -82,3 +82,7 @@
 * (4:00pm)  Discovered how to turn fractured object pieces into new throwables/ but on initial destruction they cause a chain reaction
 * (4:30pm)  Moved files from unity folder to project folder
 * (5:00pm)  Why have I barely eaten or drank today
+
+## 3.10.2021
+* (8:00am)  Today maybe look into better movement and grabbing/ interaction
+* (8:30am)  Just looking through resources
