@@ -92,3 +92,7 @@
 * (10:30am) Still no luck getting sprint input
 * (11:00am) Moved on to possibly add jumping
 * (11:30am) Still no jump
+* (12:00pm) Lunch time
+* (1:00pm)  Head banging on keys
+* (1:30pm)  No Progress
+* (2:00pm)  No Progress
