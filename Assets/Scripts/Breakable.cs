@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Valve.VR;
 
 public class Breakable : MonoBehaviour
 {
@@ -8,9 +9,17 @@ public class Breakable : MonoBehaviour
     public GameObject brokenCube;
     public float breakForce;
 
+    public SteamVR_Action_Boolean punch;
+    private SteamVR_Input_Sources punchInput;
+
     private void OnCollisionEnter(Collision other)
     {
-        if(other.gameObject.tag == "THROWABLE" || other.gameObject.tag == "GROUND" || other.gameObject.tag == "HAND")
+        if(other.gameObject.tag == "THROWABLE" || other.gameObject.tag == "GROUND")
+        {
+            hp--;
+        }
+
+        if (punch.GetState(punchInput) && other.gameObject.tag == "HAND")
         {
             hp--;
         }
