@@ -88,3 +88,5 @@
 * (8:30am)  Just looking through resources
 * (9:00am)  Create new controller input 
 * (9:30am)  Attempt to script in new input
+* (10:00am) Cant get input to register
+* (10:30am) Still no luck getting sprint input 
