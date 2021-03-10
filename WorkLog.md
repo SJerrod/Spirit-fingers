@@ -89,4 +89,6 @@
 * (9:00am)  Create new controller input 
 * (9:30am)  Attempt to script in new input
 * (10:00am) Cant get input to register
-* (10:30am) Still no luck getting sprint input 
+* (10:30am) Still no luck getting sprint input
+* (11:00am) Moved on to possibly add jumping
+* (11:30am) Still no jump
