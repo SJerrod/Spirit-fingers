@@ -96,3 +96,5 @@
 * (1:00pm)  Head banging on keys
 * (1:30pm)  No Progress
 * (2:00pm)  No Progress
+* (2:30pm)  Today has been an uphill battle and Im on a skateboard :-/
+* (3:00pm)  FINALLY GOT SPRINT WORKING, I was dancing around what I needed all day
