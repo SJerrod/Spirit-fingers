@@ -86,3 +86,5 @@
 ## 3.10.2021
 * (8:00am)  Today maybe look into better movement and grabbing/ interaction
 * (8:30am)  Just looking through resources
+* (9:00am)  Create new controller input 
+* (9:30am)  Attempt to script in new input
