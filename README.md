@@ -117,6 +117,11 @@ Open by Downloading or Cloning
   * [Blender import](https://gamedevacademy.org/how-to-import-blender-models-into-unity-your-one-stop-guide/)
   * [Hand Tracking](https://valvesoftware.github.io/steamvr_unity_plugin/articles/Skeleton-Input.html)
 
+## Special Thanks
+For the Waluigi Model from [Sketch Fab](https://sketchfab.com/)
+Credit the Creator
+Waluigi by The Pixeleur is licensed under Creative Commons Attribution
+
 
 
 
