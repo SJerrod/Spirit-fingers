@@ -1,9 +1,9 @@
-# Spirit Fingers
+# VRampage
 
 ## By Jerrod Styrk
 
 ### Description
-Spirit Fingers is a first attempt at generating a Virtual environment for the user to play around in.
+VRampage is a first attempt at generating a Virtual environment for the user to play around in.
 
 ### Use Case
 * Players will be able to dawn there VR headsets and be teleported into the virtual world.

@@ -1,4 +1,4 @@
-# _Spirit Fingers_
+# _VRampage_
 
 <p align="center">
     <a href="https://github.com/SJerrod">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <small>Last Updated: February 26th, 2021</small>
+  <small>Last Updated: March 11th, 2021</small>
 </p>
 
 #### _Vr interactive experience_
@@ -19,7 +19,7 @@
 |[Jerrod Styrk](https://www.linkedin.com/in/styrk-jerrodm/)|[SJerrod](https://github.com/SJerrod)|
 
 # 📖 Description
-* The Player will be generated into a 3D environment. Hand tracking will allow the player to interact with items. Items will have physics. Player can smash around the environment
+* The Player will be generated into a 3D environment. Hand tracking will allow the player to interact with items. Items will have physics. Player can smash around the environment. This is the test for basic mechanics in a VR simulation.
 
 ### Minimum-Viable Product
 * Generate environment around player
@@ -35,41 +35,6 @@
 * Add Inventory system
 * Items can be equip or stored
 * Equip items effect overall stats
-
-### Specs
-<!-- CHANGE BELOW 
- <details>
-  <summary>User stories and specifications</summary>
-  <table>
-    <tr>
-      <th> Story 01 </th><th></th>
-    </tr>
-    <tr>
-      <td> User Story </td>
-      <td>As a senior theatre-major college student, I want to be able to search for casting events by time slots, so that I am able to plan around my school and work schedules.</td>
-    </tr>
-    <tr>
-      <td> Behavior 01-A </td>
-      <td>User is able to filter through casting call API data by time of day.</td>
-    </tr>
-    <tr>
-      <td> Input </td>
-      <td>"Evening"</td>
-    </tr>
-    <tr>
-      <td> Output </td>
-      <td>API data with event times at 6PM to 10PM</td>
-    </tr>
-    <tr>
-      <td> Notes </td>
-      <td>API data will be called prior to filter options, and will not require a second API call.</td>
-    </tr>
-    <tr>
-      <td> Completion </td>
-      <td>False</td>
-    </tr>
-  </table>
-</details> -->
 
 # 💾 Installation Requirements
 
@@ -95,7 +60,7 @@ Open by Downloading or Cloning
 
 # 🦠 Bugs / Issues
 
-* None currently to note
+* Grabbing is still a little wonky
 
 # ☎️ Support / Contact Details
 
@@ -117,15 +82,12 @@ Open by Downloading or Cloning
   * [Blender import](https://gamedevacademy.org/how-to-import-blender-models-into-unity-your-one-stop-guide/)
   * [Hand Tracking](https://valvesoftware.github.io/steamvr_unity_plugin/articles/Skeleton-Input.html)
 
+</details>
+
 ## Special Thanks
 For the Waluigi Model from [Sketch Fab](https://sketchfab.com/)
 Credit the Creator
 Waluigi by The Pixeleur is licensed under Creative Commons Attribution
-
-
-
-
-</details>
 
 # ⚖️ License & Copyright
 
