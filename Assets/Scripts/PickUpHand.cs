@@ -15,7 +15,7 @@ public class PickUpHand : MonoBehaviour
 
     void FixedUpdate()
     {
-        if(SteamVR_Actions.default_GrabGrip.GetState(handSource))
+        if (SteamVR_Actions.default_GrabGrip.GetState(handSource))
         {
             handClosed = true;
         }

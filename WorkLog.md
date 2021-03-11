@@ -101,3 +101,4 @@
 * (3:30pm)  Add punch functionality so it only damages objects if youre using the punch function
 * (4:00pm)  Making more interactions possible
 * (4:30pm)  Improve demo area look
+* (5:00pm)  Just needs a little touchup here and there
