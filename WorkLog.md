@@ -99,3 +99,5 @@
 * (2:30pm)  Today has been an uphill battle and Im on a skateboard :-/
 * (3:00pm)  FINALLY GOT SPRINT WORKING, I was dancing around what I needed all day
 * (3:30pm)  Add punch functionality so it only damages objects if youre using the punch function
+* (4:00pm)  Making more interactions possible
+* (4:30pm)  Improve demo area look
